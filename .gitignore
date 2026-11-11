@@ -1,1 +1,20 @@
+# Byggresultat
+target/
+build/
+
+# IDE-filer
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# Operativsystem
 .DS_Store
+Thumbs.db
+
+# Serverns datafil (VG2) ska inte checkas in
+ads.json
